@@ -8,7 +8,10 @@
 
 ## 📋 Descripción
 
-Este proyecto es un **work in progress** para el análisis y predicción de churn (cancelación de suscripciones) utilizando el dataset de la competicion **WSDM - KKBox's Churn Prediction Challenge** de Kaggle.
+Este proyecto es un **work in progress** para el análisis y predicción de churn (cancelación de suscripciones) utilizando el dataset de la competición **WSDM - KKBox's Churn Prediction Challenge** de Kaggle.
+
+El challenge estipula que la metrica a utilizar es Log-Loss. 
+Voy a utilizar la libreria que he creado de [regresion logistica](https://github.com/Reezo912/Regression-Models-From-Scratch) para este problema junto con otros modelos de scikit-learn, y asi comparar el rendimiento en entornos reales.
 
 ## 🎯 Objetivo
 
