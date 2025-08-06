@@ -1,0 +1,17 @@
+# Core data analysis libraries
+polars>=1.0.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.0.0
+ipykernel>=6.0.0
+
+# Kaggle API for dataset download
+kaggle>=1.7.0
+
+# Path handling
+pathlib2>=2.3.0
+
+# Additional utilities (if needed later)
+numpy>=1.21.0
+pandas>=1.3.0  # For comparison with Polars if needed
