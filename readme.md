@@ -27,9 +27,8 @@ El dataset [WSDM - KKBox's Churn Prediction Challenge](https://www.kaggle.com/c/
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python**: Lenguaje principal
 - **Polars**: Librería de análisis de datos optimizada para grandes volúmenes (alternativa a Pandas)
-- **Jupyter Notebooks**: Para el desarrollo y análisis exploratorio
+- **PySpark**: Para la union y el preprocesado inicial de los datasets
 
 ## 📁 Estructura del Proyecto
 
