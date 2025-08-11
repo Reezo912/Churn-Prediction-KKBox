@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![Polars](https://img.shields.io/badge/Polars-1.0+-orange.svg)](https://pola-rs.github.io/polars/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)](https://github.com/yourusername/Churn-Prediction-KKBox)
 
@@ -28,9 +27,8 @@ El dataset [WSDM - KKBox's Churn Prediction Challenge](https://www.kaggle.com/c/
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python**: Lenguaje principal
 - **Polars**: Librería de análisis de datos optimizada para grandes volúmenes (alternativa a Pandas)
-- **Jupyter Notebooks**: Para el desarrollo y análisis exploratorio
+- **PySpark**: Para la union y el preprocesado inicial de los datasets
 
 ## 📁 Estructura del Proyecto
 
